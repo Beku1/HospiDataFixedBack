@@ -21,42 +21,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "files": {
-    "main.css": "/static/css/main.684fadb3.chunk.css",
-    "main.js": "/static/js/main.d5fd9880.chunk.js",
-    "main.js.map": "/static/js/main.d5fd9880.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.95eece50.js",
-    "runtime-main.js.map": "/static/js/runtime-main.95eece50.js.map",
-    "static/css/2.c4980e49.chunk.css": "/static/css/2.c4980e49.chunk.css",
-    "static/js/2.82cca44f.chunk.js": "/static/js/2.82cca44f.chunk.js",
-    "static/js/2.82cca44f.chunk.js.map": "/static/js/2.82cca44f.chunk.js.map",
-    "static/js/3.927c12cd.chunk.js": "/static/js/3.927c12cd.chunk.js",
-    "static/js/3.927c12cd.chunk.js.map": "/static/js/3.927c12cd.chunk.js.map",
-    "static/js/4.639e6a51.chunk.js": "/static/js/4.639e6a51.chunk.js",
-    "static/js/4.639e6a51.chunk.js.map": "/static/js/4.639e6a51.chunk.js.map",
-    "static/js/5.722c0e35.chunk.js": "/static/js/5.722c0e35.chunk.js",
-    "static/js/5.722c0e35.chunk.js.map": "/static/js/5.722c0e35.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.c4980e49.chunk.css.map": "/static/css/2.c4980e49.chunk.css.map",
-    "static/css/main.684fadb3.chunk.css.map": "/static/css/main.684fadb3.chunk.css.map",
-    "static/js/2.82cca44f.chunk.js.LICENSE.txt": "/static/js/2.82cca44f.chunk.js.LICENSE.txt",
-    "static/js/3.927c12cd.chunk.js.LICENSE.txt": "/static/js/3.927c12cd.chunk.js.LICENSE.txt",
-    "static/js/4.639e6a51.chunk.js.LICENSE.txt": "/static/js/4.639e6a51.chunk.js.LICENSE.txt",
-    "static/js/5.722c0e35.chunk.js.LICENSE.txt": "/static/js/5.722c0e35.chunk.js.LICENSE.txt",
-    "static/media/blood-test-result.3d8bf87f.png": "/static/media/blood-test-result.3d8bf87f.png",
-    "static/media/foot-x-rays.7fd4089b.jpg": "/static/media/foot-x-rays.7fd4089b.jpg",
-    "static/media/hand-x-rays.98fed363.png": "/static/media/hand-x-rays.98fed363.png",
-    "static/media/health-section-doctor.67997730.png": "/static/media/health-section-doctor.67997730.png",
-    "static/media/hero.2b842a9b.jpg": "/static/media/hero.2b842a9b.jpg",
-    "static/media/iron-test-results.f9a52d9a.png": "/static/media/iron-test-results.f9a52d9a.png",
-    "static/media/main.scss": "/static/media/ssp-reg.ed3e1a0f.ttf"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.95eece50.js",
-    "static/css/2.c4980e49.chunk.css",
-    "static/js/2.82cca44f.chunk.js",
-    "static/css/main.684fadb3.chunk.css",
-    "static/js/main.d5fd9880.chunk.js"
-  ]
+  "background_color": "#ffffff"
 }
